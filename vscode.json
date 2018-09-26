@@ -1,0 +1,8 @@
+{
+    "python.jediEnabled": false,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.formatOnPaste": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay"   
+}
