@@ -4,5 +4,6 @@
     "editor.formatOnPaste": true,
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "files.autoSave": "afterDelay"   
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "monospace"
 }
